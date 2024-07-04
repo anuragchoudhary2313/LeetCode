@@ -4,14 +4,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
