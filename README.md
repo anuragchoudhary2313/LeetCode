@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2406-decode-the-message](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2406-decode-the-message) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2406-decode-the-message](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2406-decode-the-message) |
+## Array
+|  |
+| ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+## Prefix Sum
+|  |
+| ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
