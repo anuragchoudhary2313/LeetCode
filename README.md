@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2406-decode-the-message](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
