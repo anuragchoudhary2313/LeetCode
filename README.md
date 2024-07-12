@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
