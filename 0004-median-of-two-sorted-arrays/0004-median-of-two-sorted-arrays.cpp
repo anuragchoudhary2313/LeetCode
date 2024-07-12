@@ -17,8 +17,8 @@ public:
 
         double median;
         if (Size % 2 == 0) {
-            int mid1 = Size / 2 - 1;
-            int mid2 = Size / 2;
+            int mid1 = Size / 2;
+            int mid2 = mid1-1;
             median = (sorting[mid1] + sorting[mid2]) / 2.0;
         } else {
             int mid = Size / 2;
