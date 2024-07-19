@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0027-remove-element) |
 | [0647-palindromic-substrings](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0041-first-missing-positive) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
