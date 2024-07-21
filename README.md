@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0647-palindromic-substrings](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
