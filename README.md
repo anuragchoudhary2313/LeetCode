@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2502-sort-the-people](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [2406-decode-the-message](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2502-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2502-sort-the-people](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2502-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
+| [2502-sort-the-people](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
