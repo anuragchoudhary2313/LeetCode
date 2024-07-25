@@ -1,12 +1,12 @@
 class Solution {
 public:
 
-void merge(std::vector<int>& arr, int left, int mid, int right) {
+void merge(vector<int>& arr, int left, int mid, int right) {
     int n1 = mid - left + 1;
     int n2 = right - mid;
 
-    std::vector<int> leftArr(n1);
-    std::vector<int> rightArr(n2);
+    vector<int> leftArr(n1);
+    vector<int> rightArr(n2);
 
     for (int i = 0; i < n1; ++i)
         leftArr[i] = arr[left + i];
@@ -38,7 +38,7 @@ void merge(std::vector<int>& arr, int left, int mid, int right) {
     }
 }
 
-void mergeSort(std::vector<int>& arr, int left, int right) {
+void mergeSort(vector<int>& arr, int left, int right) {
     if (left < right) {
         int mid = left + (right - left) / 2;
         mergeSort(arr, left, mid);
