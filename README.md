@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0792-binary-search](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0792-binary-search) |
 | [0926-find-and-replace-pattern](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0948-sort-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0792-binary-search](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0792-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
