@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
