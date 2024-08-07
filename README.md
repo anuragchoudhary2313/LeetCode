@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2406-decode-the-message](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2502-sort-the-people) |
 ## Array
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0792-binary-search) |
 | [0926-find-and-replace-pattern](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0948-sort-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2102-find-the-middle-index-in-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
 | [0948-sort-an-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0948-sort-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2502-sort-the-people](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
 | ------- |
