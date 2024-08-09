@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2406-decode-the-message](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2502-sort-the-people) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0792-binary-search) |
 | [0926-find-and-replace-pattern](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0948-sort-an-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2102-find-the-middle-index-in-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Stack
 |  |
 | ------- |
