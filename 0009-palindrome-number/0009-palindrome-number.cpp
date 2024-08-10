@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        std::string str = std::to_string(x);
+        string str = to_string(x);
         int n = str.length();
         int i = 0;
         int j = n - 1;
