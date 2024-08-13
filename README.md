@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0217-contains-duplicate) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0455-assign-cookies) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
