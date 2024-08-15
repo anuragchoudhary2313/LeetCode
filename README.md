@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -199,6 +201,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
