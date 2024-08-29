@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0926-find-and-replace-pattern) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0414-third-maximum-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
