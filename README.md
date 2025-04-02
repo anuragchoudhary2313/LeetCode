@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2502-sort-the-people) |
+| [2737-row-with-maximum-ones](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2737-row-with-maximum-ones](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
