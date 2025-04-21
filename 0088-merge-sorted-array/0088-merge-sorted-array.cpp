@@ -1,11 +1,19 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        vector<int> totalnums(m+n) ;
-        
-         ::merge(nums1.begin(), nums1.begin() + m, nums2.begin(), nums2.begin() + n, totalnums.begin());
-           for (int i = 0; i < m + n; ++i) {
-            nums1[i] = totalnums[i];
+        int i = m - 1; 
+        int j = n - 1; 
+        int k = m + n - 1; 
+
+        while (j >= 0) { 
+            if (i >= 0 && nums1[i] > nums2[j]) {
+                nums1[k] = nums1[i];
+                i--;
+            } else {
+                nums1[k] = nums2[j];
+                j--;
+            }
+            k--;
         }
     }
 };
