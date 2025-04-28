@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0792-binary-search) |
 | [0926-find-and-replace-pattern](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0926-find-and-replace-pattern) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0658-find-k-closest-elements](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0807-custom-sort-string) |
 | [0948-sort-an-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anuragchoudhary2313/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2047-find-a-peak-element-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -219,10 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0658-find-k-closest-elements](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
