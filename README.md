@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0495-teemo-attacking) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0495-teemo-attacking) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
