@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/anuragchoudhary2313/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
