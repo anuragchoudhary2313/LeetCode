@@ -275,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/anuragchoudhary2313/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
