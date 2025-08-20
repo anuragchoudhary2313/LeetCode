@@ -1,18 +1,16 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string str = to_string(x);
-        int n = str.length();
-        int i = 0;
-        int j = n - 1;
-        while (i <= j) {
-            if (str[i] == str[j]) {
-                i++;
-                j--;
-            } else {
-                return false;
-            }
+        long long int dup = x;
+        long long int rev = 0;
+        while(x>0){
+            long long int digit = x % 10;
+            rev = (rev * 10) + digit;
+            x = x/10;
         }
-        return true;
+        if(dup == rev){
+            return true;
+        }
+        return false;
     }
 };
